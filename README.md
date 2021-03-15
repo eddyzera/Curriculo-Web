@@ -1,3 +1,6 @@
+## Descrição
+
+Um site modelo para currículo que puxa uma API do Github que mostra informações necessárias para os recrutadores.
 
 
 ## Getting Started
